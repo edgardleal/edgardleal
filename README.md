@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 [![Edgard's GitHub stats](https://github-readme-stats.vercel.app/api?username=edgardleal)](https://github.com/anuraghazra/github-readme-stats)
 
-![Skills](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=edgardleal&skills=Java,JavaScript,TypeScript,Vue&show-other-skills=true)
+![Skills](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=edgardleal&skills=Java,JavaScript,TypeScript,Vue,Python&show-other-skills=true)
