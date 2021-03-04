@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+[!Coders](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=edgardleal&width=300&height=70)
+
+[![Edgard's GitHub stats](https://github-readme-stats.vercel.app/api?username=edgardleal)](https://github.com/anuraghazra/github-readme-stats)
