@@ -3,6 +3,6 @@
 - 🔭 I’m currently working on the best platforms to powerup doctors
 - 👯 I’m looking to collaborate on projects to help developers life better
 - 💬 Ask me about AWS, typescript, OO, SOLID, Clean Architecture
-- 📫 The best place to talk to me is here ( send a PR/Issue )
+- 📫 You can find me [here](https://profile.codersrank.io/user/edgardleal/), [here on github](https://github.com/edgardleal/) or at [stackoverflow](https://stackoverflow.com/users/1959181/edgard-leal)
 - 😄 Pronouns: He
 - ⚡ Father of the most wonderful girl in the world
