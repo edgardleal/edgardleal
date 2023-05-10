@@ -3,7 +3,7 @@
 - 🔭 I’m currently working with Golang, Java, Typescript and AWS
 - 👯 I’m looking to collaborate on projects to help developers life better
 - 💬 Ask me about AWS, typescript, OO, SOLID, and Clean Architecture
-- 📫 You can find me [here](https://profile.codersrank.io/user/edgardleal/), [here on GitHub](https://github.com/edgardleal/) or at Stackoverflow](https://stackoverflow.com/users/1959181/edgard-leal)
+- 📫 You can find me [here](https://profile.codersrank.io/user/edgardleal/), [here on GitHub](https://github.com/edgardleal/) or at [Stackoverflow](https://stackoverflow.com/users/1959181/edgard-leal)
 - ⚡ Father of the most wonderful girl in the world
 
 ## IDEs & Text Editors
