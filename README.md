@@ -14,4 +14,3 @@
 
 ![](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=edgardleal&skills=JavaScript,Vue,CSS,Typescript,Go,C,Python,JSON,Shell,Lua,Java,HTML")
 
-[![wakatime](https://wakatime.com/badge/user/5480354f-4a7b-4542-82f7-4dd0b9d5713b.svg)](https://wakatime.com/@5480354f-4a7b-4542-82f7-4dd0b9d5713b)
